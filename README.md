@@ -1,2 +1,2 @@
 #### Boson
-golang sdk of [bosonnlp](https://bosonnlp.com)
+golang sdk for [bosonnlp](https://bosonnlp.com)
